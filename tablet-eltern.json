@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v4/Tablet-Eltern.apk",
-    "versionCode":  4,
-    "versionName":  "0.1.3",
-    "notes":  "Ein nicht mehr benötigtes Tablet lässt sich unter Geräteeinstellungen aus der Liste entfernen."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v5/Tablet-Eltern.apk",
+    "versionCode":  5,
+    "versionName":  "0.1.4",
+    "notes":  "Übersicht, Apps, Regeln und Aktivität sind ein kompaktes Dashboard. Freizeitminuten und App-Zeilen kommen aus derselben Zählung und werden nicht mehr zusammengerechnet. Die Kinder-App merkt sich künftig, in welcher Kategorie eine Sekunde gezählt wurde."
 }
