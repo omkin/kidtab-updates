@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/freizeit-v2/Freizeit.apk",
-    "versionCode":  2,
-    "versionName":  "0.1.1",
-    "notes":  "Die App lädt eine neue Version selbst und öffnet danach den Android-Installer."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/freizeit-v3/Freizeit.apk",
+    "versionCode":  3,
+    "versionName":  "0.1.2",
+    "notes":  "Übersicht, Apps, Regeln und Aktivität sind ein kompaktes Dashboard. Freizeitminuten und App-Zeilen kommen aus derselben Zählung und werden nicht mehr zusammengerechnet. Die Kinder-App merkt sich künftig, in welcher Kategorie eine Sekunde gezählt wurde."
 }
