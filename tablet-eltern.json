@@ -1,0 +1,6 @@
+{
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v2/Tablet-Eltern.apk",
+    "versionCode":  2,
+    "versionName":  "0.1.1",
+    "notes":  "Die App lädt eine neue Version selbst und öffnet danach den Android-Installer."
+}
