@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v2/Tablet-Eltern.apk",
-    "versionCode":  2,
-    "versionName":  "0.1.1",
-    "notes":  "Die App lädt eine neue Version selbst und öffnet danach den Android-Installer."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v3/Tablet-Eltern.apk",
+    "versionCode":  3,
+    "versionName":  "0.1.2",
+    "notes":  "Untere Leiste, Zahnrad und Konto bleiben nach dem Tippen offen."
 }
