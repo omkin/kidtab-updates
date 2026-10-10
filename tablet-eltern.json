@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v3/Tablet-Eltern.apk",
-    "versionCode":  3,
-    "versionName":  "0.1.2",
-    "notes":  "Untere Leiste, Zahnrad und Konto bleiben nach dem Tippen offen."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v4/Tablet-Eltern.apk",
+    "versionCode":  4,
+    "versionName":  "0.1.3",
+    "notes":  "Ein nicht mehr benötigtes Tablet lässt sich unter Geräteeinstellungen aus der Liste entfernen."
 }
