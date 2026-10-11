@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v5/Tablet-Eltern.apk",
-    "versionCode":  5,
-    "versionName":  "0.1.4",
-    "notes":  "Übersicht, Apps, Regeln und Aktivität sind ein kompaktes Dashboard. Freizeitminuten und App-Zeilen kommen aus derselben Zählung und werden nicht mehr zusammengerechnet. Die Kinder-App merkt sich künftig, in welcher Kategorie eine Sekunde gezählt wurde."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v6/Tablet-Eltern.apk",
+    "versionCode":  6,
+    "versionName":  "0.1.5",
+    "notes":  "Die Nutzungszeiten werden nicht mehr weitergezählt, wenn eine App schon zu ist. Falsche gleiche Stunden verschwinden. Die Kinder-App beginnt die heutige Zählung danach neu."
 }
