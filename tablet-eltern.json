@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v7/Tablet-Eltern.apk",
-    "versionCode":  7,
-    "versionName":  "0.1.6",
-    "notes":  "Der Pauseknopf legt den Sperrbildschirm über Spiele, sobald auf dem Tablet die Anzeige über anderen Apps erlaubt ist. Ein zweites Tippen hebt die Pause wieder auf."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/tablet-eltern-v8/Tablet-Eltern.apk",
+    "versionCode":  8,
+    "versionName":  "0.1.7",
+    "notes":  "Alle Sperren aus schaltet Pause, Budget und App-Sperren ab. Die Zuordnungen bleiben. Sperren wieder einschalten stellt die Regeln wieder her."
 }
